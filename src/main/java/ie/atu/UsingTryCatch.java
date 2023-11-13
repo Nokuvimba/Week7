@@ -21,7 +21,6 @@ public class UsingTryCatch {
                 }
             } catch (NumberFormatException e) {
                 System.out.println("Enter  a valid number between 0-9.");
-
             }
         }
     }
